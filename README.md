@@ -1,5 +1,5 @@
-# Anti Stream-Snipe Mod
-にむさんの配信をスナイプする人を退治するためだけに作られたmodです
+# AutoVoid Mod
+にむさんの配信の右上にあるAuto Voidという文字を表示してくれるmodです。
 
 # How To Build
 ダウンロードしてごり押してください
