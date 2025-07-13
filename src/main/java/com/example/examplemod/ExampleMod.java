@@ -17,7 +17,8 @@ public class ExampleMod {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-        System.out.println("2muu OP - autovoiding! help!");
+        MinecraftForge.EVENT_BUS.register(this);
+        System.out.println("2muu OP");
     }
 
 
