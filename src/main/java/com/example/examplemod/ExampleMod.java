@@ -46,7 +46,7 @@ public class ExampleMod {
         FontRenderer fr = mc.fontRendererObj;
         ScaledResolution sr = new ScaledResolution(mc);
 
-        String text = "Auto Void §7Hypixel";
+        String text = "AutoVoid §7Hypixel";
         int x = sr.getScaledWidth() - fr.getStringWidth(text) - 5;
         int y = 5;
 
